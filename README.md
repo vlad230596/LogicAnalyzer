@@ -7,3 +7,4 @@
 
 Проект в развитии.
 
+![текущий интерфейс](https://github.com/vlad230596/LogicAnalyzer/blob/master/Screenshot_1.png)
